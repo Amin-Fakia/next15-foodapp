@@ -47,6 +47,9 @@ export default function Home() {
             with other food lovers.
           </p>
         </section>
+        <section className={classes.section}>
+          This was made by Amin Fakia using a next.js tutorial on Udemy
+                    </section>
     </main>
     </>
   );
